@@ -4,4 +4,9 @@
     height:50px;
     background-color: green;
     position:absolute;
-  }
+}
+
+.circle:hover{
+    cursor: pointer;
+    background-color: red;
+}
